@@ -90,8 +90,4 @@ Este proyecto está bajo la Licencia MIT.
 
 **Desarrollado por [juan5440**](https://www.google.com/search?q=https://github.com/juan5440)
 
-```
 
-¿Te gustaría que añada una sección específica sobre cómo podrías promocionar este proyecto en tu canal de YouTube?
-
-```
