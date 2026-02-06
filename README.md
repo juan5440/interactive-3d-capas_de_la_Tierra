@@ -1,4 +1,3 @@
-Aquí tienes el código fuente exacto en formato **Markdown**. Puedes copiar y pegar este bloque directamente en tu archivo `README.md`:
 
 ```markdown
 # Capas de la Tierra - Interactivo 3D
